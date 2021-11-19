@@ -1,0 +1,19 @@
+Industry
+1. Mining/Logging
+2. Real Estate, Rental, & Leasing
+3. Information
+4. Arts, Entertainment, & Recreation
+5. Educational Services
+6. Federal Government
+7. State & Local Govt. (Education)
+8. State & Local Govt.(Excluding Education)
+9. Construction
+10. Wholesale Trade
+11. Retail Trade
+12. Health Care and Social Assistance
+13. Accommadations & Food Services
+14. Professional & Bussiness Services
+15. Other Services
+16. Manufacturing (Non-Durable/Durable)
+17. Transportation,Warehousing, & Utilities
+18. Finance and Insurance
